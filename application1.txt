@@ -6,4 +6,4 @@ moregameBegin##{https://www.google.com/}##Lastmoregame
 SheireBegin##{work}##Sheiregame
 UrlRateUsBegin##{work}##LastUrlRateUs
 IsfreedBegin##{false}##LastIsfreed
-IsIsuspendBegin##{false}##LastIsIsuspend
+IsIsuspendBegin##{true}##LastIsIsuspend
