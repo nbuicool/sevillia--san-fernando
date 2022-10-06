@@ -1,4 +1,3 @@
-
 AppKeyBegin##{13569a1c1}##LastAppKey
 moregameBegin##{work}##Lastmoregame
 SheireBegin##{work}##Sheiregame
