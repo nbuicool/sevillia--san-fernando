@@ -1,7 +1,4 @@
-SdkKeyBegin##{ddosODOz_WPiOgvesSDLl0VRXK7A_uff8Gf1vlzgpTo18c1oNnfF1hByqkkBNniFdQst-1OAS-bBC6JTwWcJP0}##LastSdkKey 
-bannerIdBegin##{e43d61691b465d04}##LastbannerId
-InterIdBegin##{5e81c0dcbba5b546}##LastInterId
-RewordIdBegin##{1ab53990324041c3}##LastRewordId
+AppKeyBegin##{13569a1c1}##LastAppKey
 moregameBegin##{work}##Lastmoregame
 SheireBegin##{work}##Sheiregame
 UrlRateUsBegin##{work}##LastUrlRateUs
