@@ -1,4 +1,4 @@
-AppKeyBegin##{13569a1c1}##LastAppKey
+AppKeyBegin##{}##LastAppKey
 moregameBegin##{work}##Lastmoregame
 SheireBegin##{work}##Sheiregame
 UrlRateUsBegin##{work}##LastUrlRateUs
