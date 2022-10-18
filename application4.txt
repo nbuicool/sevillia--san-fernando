@@ -1,9 +1,7 @@
-SdkKeyBegin##{}##LastSdkKey 
-bannerIdBegin##{}##LastbannerId
-InterIdBegin##{}##LastInterId
-RewordIdBegin##{}##LastRewordId
-moregameBegin##{work}##Lastmoregame
-SheireBegin##{work}##Sheiregame
-UrlRateUsBegin##{work}##LastUrlRateUs
+AppKeyBegin##{16eba75d5}##LastAppKey
+moregameBegin##{https://play.google.com/store/apps/developer?id=juegosdemiguel
+}##Lastmoregame
+SheireBegin##{https://play.google.com/store/apps/details?id=com.ModePlaygroundWorking.Playgroundmode}##Sheiregame
+UrlRateUsBegin##{https://play.google.com/store/apps/details?id=com.ModePlaygroundWorking.Playgroundmode}##LastUrlRateUs
 IsfreedBegin##{false}##LastIsfreed
 IsIsuspendBegin##{false}##LastIsIsuspend
