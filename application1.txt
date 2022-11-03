@@ -1,9 +1,9 @@
-SdkKeyBegin##{}##LastSdkKey 
-bannerIdBegin##{}##LastbannerId
-InterIdBegin##{}##LastInterId
-RewordIdBegin##{}##LastRewordId
-moregameBegin##{}##Lastmoregame
-SheireBegin##{work}##Sheiregame
-UrlRateUsBegin##{work}##LastUrlRateUs
+SdkKeyBegin##{EXO7VnZmq_4n3x0JuPp3So3Pk5ioHEyLR0GGmsb1GivXE1z9WS1a-aT4qvgb0fwqRX0Wmt1zqUgVdlC0y8_HTG}##LastSdkKey 
+bannerIdBegin##{767c6da2da20e927}##LastbannerId
+InterIdBegin##{ff83a9964467af21}##LastInterId
+RewordIdBegin##{82f16a876cf0ffba}##LastRewordId
+moregameBegin##{https://play.google.com/store/apps/developer?id=juegosdemiguel}##Lastmoregame
+SheireBegin##{https://play.google.com/store/apps/details?id=com.PlaygrundCompanys.modMelonPlayground}##Sheiregame
+UrlRateUsBegin##{https://play.google.com/store/apps/details?id=com.PlaygrundCompanys.modMelonPlayground}##LastUrlRateUs
 IsfreedBegin##{false}##LastIsfreed
 IsIsuspendBegin##{false}##LastIsIsuspend
