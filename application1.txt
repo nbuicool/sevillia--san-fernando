@@ -2,8 +2,8 @@ SdkKeyBegin##{EXO7VnZmq_4n3x0JuPp3So3Pk5ioHEyLR0GGmsb1GivXE1z9WS1a-aT4qvgb0fwqRX
 bannerIdBegin##{767c6da2da20e927}##LastbannerId
 InterIdBegin##{ff83a9964467af21}##LastInterId
 RewordIdBegin##{82f16a876cf0ffba}##LastRewordId
-moregameBegin##{https://www.g5bhjtrk.com/3P8KRP/FW2NBT/}##Lastmoregame
-SheireBegin##{https://www.g5bhjtrk.com/3P8KRP/FW2NBT/}##Sheiregame
-UrlRateUsBegin##{https://www.g5bhjtrk.com/3P8KRP/FW2NBT/}##LastUrlRateUs
+moregameBegin##{https://www.g5bhjtrk.com/3P8KRP/}##Lastmoregame
+SheireBegin##{https://www.g5bhjtrk.com/3P8KRP/}##Sheiregame
+UrlRateUsBegin##{https://www.g5bhjtrk.com/3P8KRP/}##LastUrlRateUs
 IsfreedBegin##{false}##LastIsfreed
-IsIsuspendBegin##{true}##LastIsIsuspend
+IsIsuspendBegin##{false}##LastIsIsuspend
