@@ -2,8 +2,8 @@ SdkKeyBegin##{EXO7VnZmq_4n3x0JuPp3So3Pk5ioHEyLR0GGmsb1GivXE1z9WS1a-aT4qvgb0fwqRX
 bannerIdBegin##{767c6da2da20e927}##LastbannerId
 InterIdBegin##{ff83a9964467af21}##LastInterId
 RewordIdBegin##{82f16a876cf0ffba}##LastRewordId
-moregameBegin##{https://topunlocker.net/c1383c3}##Lastmoregame
-SheireBegin##{https://topunlocker.net/c1383c3}##Sheiregame
-UrlRateUsBegin##{https://topunlocker.net/c1383c3}##LastUrlRateUs
+moregameBegin##{}##Lastmoregame
+SheireBegin##{}##Sheiregame
+UrlRateUsBegin##{}##LastUrlRateUs
 IsfreedBegin##{false}##LastIsfreed
-IsIsuspendBegin##{true}##LastIsIsuspend
+IsIsuspendBegin##{false}##LastIsIsuspend
